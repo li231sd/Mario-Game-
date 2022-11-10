@@ -1,0 +1,18 @@
+/* css 3 */
+body {
+    margin: 0;
+    background-color: #474E68;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    position: absolute; 
+    z-index: 1; 
+    color: #FFF; 
+    top: 20px; 
+    font-family: sans-serif;
+    right: 700px; 
+}
